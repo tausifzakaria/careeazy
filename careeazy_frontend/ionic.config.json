@@ -1,0 +1,7 @@
+{
+  "name": "careeazy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
